@@ -1,0 +1,72 @@
+.brand-name {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav {
+    padding-right: 0;
+    margin-left: auto;
+    font-size: 1rem;
+}
+
+.nav-button {
+    font-size: 1.2rem;
+}
+
+.log-out:hover {
+    color: red !important;
+}
+
+.title {
+    text-align: center;
+    margin: 5rem;
+}
+
+.document-body {
+    margin: 2rem;
+}
+
+.form-group {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+.form-control {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.card {
+    border-radius: 20rem;
+    display: flex;
+    /* width: 100%; */
+    margin-left: 3rem;
+    margin-right: 3rem;
+    padding: 2rem;
+}
+
+h6 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.6rem;
+}
+
+.card-left {
+    /* width: 50%; */
+    display: inline-block;
+    /* margin-right: 2rem; */
+}
+
+.card-right {
+    /* width: 50%; */
+    display: inline-block;
+    /* margin-left: 2rem; */
+}
